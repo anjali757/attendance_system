@@ -1,4 +1,4 @@
-**Face Recognition Attendance System**
+## *Face Recognition Attendance System*
 
 An AI-based attendance system that uses face recognition to automatically identify people from video or webcam and record their attendance with time, date, and confidence score.
 
